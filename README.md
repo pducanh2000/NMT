@@ -7,4 +7,4 @@
 |    | Work|
 |:-----------------:|:---------------:|
 |:heavy_check_mark: |Uploaded the notebook file.|
-| :smile: later |Update Python script .py files|
+| :hourglass_flowing_sand: |Update Python script .py files|
