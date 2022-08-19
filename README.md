@@ -1,7 +1,7 @@
 # NMT
 <i> <b>  Neural Machine Translation. </b> </i>
 
-<i> A small project to create model to translate from German to English. </i>
+<i> A small project about creating model to translate German to English. </i>
 
 <i> Created as an example of Transformer model. </i>
 |    | Work|
